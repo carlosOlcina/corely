@@ -1,1 +1,21 @@
-[{}]
+[
+  {
+    "id": "29014b37-fd27-4a6c-814b-37fd276a6c81",
+    "title": "Press banca",
+    "description": "Press banca good",
+    "workoutIds": ["522ea706-75fc-44f6-aea7-0675fc64f611"],
+    "lastTrain": "c2d68ca9-1287-4928-968c-a912874928c9",
+    "sets": [
+      {
+        "id": "8968b56e-05eb-4ce0-a8b5-6e05eb1ce021",
+        "sessionId": "c2d68ca9-1287-4928-968c-a912874928c9\"",
+        "set": 1,
+        "reps": 10,
+        "weight": 100,
+        "createdAt": "2025-12-31T17:26:17.509Z"
+      }
+    ],
+    "createdAt": "2025-12-31T17:26:17.509Z",
+    "updatedAt": "2025-12-31T17:26:17.509Z"
+  }
+]
